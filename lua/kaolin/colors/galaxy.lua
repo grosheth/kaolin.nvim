@@ -1,14 +1,14 @@
 ---@class Palette
 local ret = {
   -- bg = "#212026",
-  bg = "#14191e",
-  bg_dark = "#14191e",
+  bg = "##14191e",
+  bg_dark = "#212020",
   bg_highlight = "#212020",
 
-  blue2 = "#4ca6e8",
-  blue= "#0db9d7",
-  blue0 = "#91b9c7",
+  blue = "#41b0f3",
+  blue0 = "#2a57cc",
   blue1 = "#2ac3de",
+  blue2 = "#0db9d7",
   blue5 = "#89ddff",
   blue6 = "#b4f9f8",
   blue7 = "#394b70",
@@ -16,35 +16,31 @@ local ret = {
 
   cyan = "#6bd9db",
   cyan0 = "#0bc9cf",
-  cyan1 = "#49bdb0",
-  cyan2 = "#0d9c94",
 
   dark3 = "#545c7e",
   dark5 = "#737aa2",
 
   fg = "#e6e6e8",
-  fg_dark = "#e6e6e8",
-  fg_gutter = "#4b5254",
+  fg_dark = "#565f89",
+  fg_gutter = "#3b4261",
 
   green = "#49bdb0",
   green0 = "#6dd797",
-  green1 = "#7cf083",
-  green2 = "#31e183",
+  green1 = "#6dd797",
+  green2 = "#6dd797",
 
   magenta = "#cea2ca",
   magenta0 = "#9d81ba",
 
   orange = "#ff9e64",
-  purple = "#eed891",
-  
+  purple = "#9d7cd8",
+
   red = "#ef6787",
   red1 = "#D6224D",
-  red2 = "#e55c74",
-  red3 = "#cd5c60",
 
+  teal = "#1abc9c",
   -- teal = "#1abc9c",
-  teal = "#0d9c94",
-  terminal_black = "#14191e",
+  terminal_black = "#414868",
 
   yellow = "#eed891",
   yellow0 = "#f5c791",
