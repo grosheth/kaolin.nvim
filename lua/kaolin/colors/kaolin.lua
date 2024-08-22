@@ -1,8 +1,9 @@
 ---@class Palette
 local ret = {
   -- bg = "#212026",
-  bg = "#14191e",
-  bg_dark = "#14191e",
+  -- bg = "#14191e",
+  bg = "#18181b",
+  bg_dark = "#18181b",
   bg_highlight = "#212020",
 
   blue2 = "#4ca6e8",
@@ -44,7 +45,7 @@ local ret = {
 
   -- teal = "#1abc9c",
   teal = "#0d9c94",
-  terminal_black = "#14191e",
+  terminal_black = "#4b5254",
 
   yellow = "#eed891",
   yellow0 = "#f5c791",
