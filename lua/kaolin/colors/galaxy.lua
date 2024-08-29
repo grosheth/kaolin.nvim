@@ -1,7 +1,7 @@
 ---@class Palette
 local ret = {
   -- bg = "#212026",
-  bg = "##14191e",
+  bg = "#14191e",
   bg_dark = "#212020",
   bg_highlight = "#212020",
 
