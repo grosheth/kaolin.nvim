@@ -25,7 +25,7 @@ function M.get(style)
   }
 
   hl.visual = {
-    a = { bg = colors.magenta, fg = colors.black },
+    a = { bg = colors.yellow, fg = colors.black },
     b = { bg = colors.fg_gutter, fg = colors.magenta },
   }
 

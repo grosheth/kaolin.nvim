@@ -52,8 +52,8 @@ function M.terminal(colors)
   vim.g.terminal_color_4 = colors.blue
   vim.g.terminal_color_12 = Util.blend_fg(colors.blue, 0.5)
 
-  vim.g.terminal_color_5 = colors.magenta
-  vim.g.terminal_color_18 = Util.blend_fg(colors.magenta, 0.5)
+  vim.g.terminal_color_5 = colors.yellow
+  vim.g.terminal_color_18 = Util.blend_fg(colors.yellow, 0.5)
 
   vim.g.terminal_color_6 = colors.cyan
   vim.g.terminal_color_14 = Util.blend_fg(colors.cyan, 0.5)

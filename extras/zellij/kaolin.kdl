@@ -1,0 +1,17 @@
+themes {
+    kaolin {
+        fg "#e6e6e8"
+        bg "#18181b"
+        // Black should match the terminal background color
+        // This ensures the top and bottom bars are transparent
+        black "#18181b"
+        red "#e55c74"
+        green "#6dd797"
+        yellow "#eed891"
+        blue "#0db9d7"
+        magenta "#cea2ca"
+        cyan "#6bd9db"
+        white "#e6e6e8"
+        orange "#ff9e64"
+    }
+}

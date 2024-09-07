@@ -7,13 +7,13 @@ local ret = {
   bg_highlight = "#212020",
 
   blue2 = "#4ca6e8",
-  blue= "#0db9d7",
+  blue= "#6dd797",
   blue0 = "#91b9c7",
-  blue1 = "#2ac3de",
+  blue1 = "#8ae9fc",
   blue5 = "#89ddff",
   blue6 = "#b4f9f8",
   blue7 = "#394b70",
-  comment = "#565f89",
+  comment = "#4b5254",
 
   cyan = "#6bd9db",
   cyan0 = "#0bc9cf",
@@ -29,10 +29,11 @@ local ret = {
 
   green = "#49bdb0",
   green0 = "#6dd797",
-  green1 = "#7cf083",
+  -- green1 = "#7cf083",
+  green1 = "#31e183",
   green2 = "#31e183",
 
-  magenta = "#cea2ca",
+  magenta = "#ef6787",
   magenta0 = "#9d81ba",
 
   orange = "#ff9e64",
@@ -51,7 +52,7 @@ local ret = {
   yellow0 = "#f5c791",
 
   git = {
-    add = "#6dd797",
+    add = "#1abc9c",
     change = "#eed891",
     delete = "#D6224D",
   },
