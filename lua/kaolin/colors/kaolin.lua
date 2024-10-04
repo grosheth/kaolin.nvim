@@ -37,7 +37,7 @@ local ret = {
   green2 = "#31e183",
 
   magenta = "#ef6787",
-  magenta0 = "#9d81ba",
+  magenta0 = "#bb9af7",
 
   -- orange = "#ff9e64",
   orange = "#eed891",
